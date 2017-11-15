@@ -35,3 +35,6 @@ Code Refs:
 <link href="https://fonts.googleapis.com/css?family=Share|Source+Sans+Pro" rel="stylesheet">
 font-family: 'Source Sans Pro', sans-serif;
 font-family: 'Share', cursive;
+
+<!-- //target individual "<" in .html for styling.
+//add hyperlinks. -->
